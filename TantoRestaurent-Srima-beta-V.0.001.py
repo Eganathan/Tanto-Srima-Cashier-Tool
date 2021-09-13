@@ -109,7 +109,7 @@ def reset():
         global total
         total = 0
         init()
-        note_str.set(" Sucessfully Reset! ")
+        note_str.set("Reset Sucessfull! ")
         pass
 #==============test
 def quitm():
